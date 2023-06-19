@@ -25,4 +25,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rodrip0129@gmail.com)
 
+## Github Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigopenayo98&theme=react)
+
+
+<br/>  
+
+<br />
+
 ### ⭐ From [Rodrigo Penayo](hhttps://github.com/rodrigopenayo98).
