@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!;I'm+Rod.!)](https://git.io/typing-svg)
 
 
-
 ## About Me:
 - 👋 I'm Rodrigo Penayo.
 - 🌎 I'm from ARGENTINA.
@@ -29,9 +28,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigopenayo98&theme=react)
 
-
-<br/>  
-
-<br />
 
 ### ⭐ From [Rodrigo Penayo](hhttps://github.com/rodrigopenayo98).
