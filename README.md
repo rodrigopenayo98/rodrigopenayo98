@@ -3,12 +3,13 @@
 
 ## About Me:
 - 👋 I'm Rodrigo Penayo.
-- 🌎 I'm from ARGENTINA.
-- 💻  Certified Microverse Full-stack Web Developer.
+- 🌎 I'm from ARGENTINA - Chaco.
+- 💻 Full-Stack Developer.
 - 👩🏽‍🎓 I have an intensive English course at the Rapid Speak academy in my country.
 - 🔍 Looking for <ins>a full-time positions</ins> as a <ins>Full-stack/Front-end/Back-end Developer</ins> & open to new opportunities!
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** sing, play guitar, train, learn new languages and cultures, watch documentaries, research, read, and coding!
 - 👨‍💻 All of my projects are available on [my portfolio](https://portfoliorod-8sc3yov2x-rodrigopenayo98.vercel.app/)
+- ✉️ rodrip0129gmail.com
 
 ## Languages and Tools:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
