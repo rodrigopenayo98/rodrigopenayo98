@@ -8,7 +8,7 @@
 - 👩🏽‍🎓 I have an intensive English course at the Rapid Speak academy in my country.
 - 🔍 Looking for <ins>a full-time positions</ins> as a <ins>Full-stack/Front-end/Back-end Developer</ins> & open to new opportunities!
 - 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** sing, play guitar, train, learn new languages and cultures, watch documentaries, research, read, and coding!
-- 👨‍💻 All of my projects are available on [my portfolio](https://portfoliorod-8sc3yov2x-rodrigopenayo98.vercel.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://portfoliorod-8sc3yov2x-rodrigopenayo98.vercel.app/), I'm open to new job opportunities.
 - ✉️ rodrip0129gmail.com
 
 ## Languages and Tools:
